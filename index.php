@@ -13,7 +13,6 @@ and open the template in the editor.
         <link href="css/estiloprincipal.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        
         <div id="contenedor">
             <div id="titulo"></div>
             <div id="menu"><?php include('menu.php');?></div>
